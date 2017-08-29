@@ -1,0 +1,25 @@
+type project
+title
+    ProcessingData
+owners
+    Oscar Vargas Torres
+authors 
+    Oscar Vargas Torres
+projectUrl
+    https://github.com/oscarvarto/ProcessingData
+iconUrl
+    https://raw.githubusercontent.com/oscarvarto/ProcessingData/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/oscarvarto/ProcessingData/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2017
+tags
+    F# C# data-processing
+summary
+    Processing Data with F#
+description
+    Processing Data (csv, spreadsheet, databases, etc.) with F# and C#
+
+

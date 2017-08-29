@@ -1,6 +1,6 @@
-﻿module FSharp.ProjectScaffold.Tests
+module ProcessingData.Tests
 
-open FSharp.ProjectTemplate
+open ProcessingData
 open NUnit.Framework
 
 [<Test>]
